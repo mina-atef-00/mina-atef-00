@@ -16,6 +16,7 @@ Egyptian Engineering Student. I ❤️ GNU/Linux, especially Manjaro KDE. Python
 </a>
 
 <br />
+<br />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
