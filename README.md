@@ -3,7 +3,7 @@ Egyptian Engineering Student. I ❤️ GNU/Linux, especially Manjaro KDE. Python
 #### Contact me on
 <a href="https://discordapp.com/channels/@me/747449468864954438/">
   <img align="left" alt="t0va#7773" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a> t0va#7773
+</a> pure-cheekbones#7773
 <br />
 <br />
 
