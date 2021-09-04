@@ -8,7 +8,7 @@ Egyptian Engineering Student. I ❤️ GNU/Linux, especially Manjaro KDE. Python
 <br />
 
 - I’m currently finishing [hot-bot-pol-pot](https://github.com/pure-cheekbones/hot-bot-pol-pot).
-- Planning to learn Bash scripting and delve into the linux world.
+- Planning to delve more into web-scrapping, beautiful soup and selenium.
 <br />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
