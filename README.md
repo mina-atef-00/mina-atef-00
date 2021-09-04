@@ -7,7 +7,7 @@ Egyptian Engineering Student. I ❤️ GNU/Linux, especially Manjaro KDE. Python
 <br />
 <br />
 
-- I’m currently rewriting [hot-bot-pol-pot](https://github.com/pure-cheekbones/hot-bot-pol-pot) using the [hikari](https://github.com/hikari-py/hikari) api.
+- I’m currently finishing [hot-bot-pol-pot](https://github.com/pure-cheekbones/hot-bot-pol-pot).
 - Planning to learn Bash scripting and delve into the linux world.
 <br />
 
