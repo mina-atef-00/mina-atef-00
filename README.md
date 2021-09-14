@@ -7,10 +7,6 @@ Egyptian Engineering Student. I ❤️ GNU/Linux, especially Manjaro KDE. Python
 <br />
 <br />
 
-- I’m currently finishing [hot-bot-pol-pot](https://github.com/pure-cheekbones/hot-bot-pol-pot).
-- Planning to delve more into web-scrapping, beautiful soup and selenium.
-<br />
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=pure-cheekbones&show_icons=true&include_all_commits=true&theme=onedark" alt="Anurag's github stats" />
 </a>
