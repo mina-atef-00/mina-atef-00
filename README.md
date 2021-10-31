@@ -8,7 +8,7 @@ Egyptian Engineering Student. I ❤️ GNU/Linux, and Satoshi Nakamoto.
 <br />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=pure-cheekbones&show_icons=true&include_all_commits=true&theme=onedark" alt="Anurag's github stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=pure-cheekbones&show_icons=true&include_all_commits=true&theme=dracula" alt="Anurag's github stats" />
 </a>
 
 <br />
