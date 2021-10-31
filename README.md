@@ -16,5 +16,5 @@ Egyptian Engineering Student. I ❤️ GNU/Linux, and Satoshi Nakamoto.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pure-cheekbones&layout=compact&theme=onedark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pure-cheekbones&layout=compact&theme=dracula" />
 </a>
