@@ -2,7 +2,7 @@
 Egyptian Engineering Student. I ❤️ GNU/Linux, Dracula Theme and Satoshi Nakamoto.
 <br /> <br />
 <a href="https://discordapp.com/channels/@me/747449468864954438/">
-  <img align="left" alt="t0va#7773" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+  <img align="left" alt="tova#7773" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a> pure-cheekbones#7773
 <br />
 <br />
