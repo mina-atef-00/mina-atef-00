@@ -8,7 +8,7 @@ Egyptian Engineering Student. Building projects with Django and aspiring to be a
 <br />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=pure-cheekbones&show_icons=true&include_all_commits=true&theme=dracula" alt="Anurag's github stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mina-andajos&show_icons=true&include_all_commits=true&theme=dracula" alt="Anurag's github stats" />
 </a>
 
 <br />
@@ -16,5 +16,5 @@ Egyptian Engineering Student. Building projects with Django and aspiring to be a
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pure-cheekbones&layout=compact&theme=dracula" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mina-andajos&layout=compact&theme=dracula" />
 </a>
