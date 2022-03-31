@@ -1,5 +1,5 @@
 # Mina Andajos
-Egyptian Engineering Student. Building projects with Django and aspiring to be a Full-Stack Web developer. I ❤️ GNU/Linux, Dracula Theme and Satoshi Nakamoto.
+Egyptian Engineering Student. Building projects with Django and aspiring to be a Full-Stack Web developer. I ❤️ GNU/Linux, Gruvbox Theme and Charles Hoskinson.
 <br /> <br />
 <a href="https://discordapp.com/channels/@me/747449468864954438/">
   <img align="left" alt="tova#7773" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
