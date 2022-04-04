@@ -2,7 +2,7 @@
 Egyptian Engineering Student. Building projects with Django and aspiring to be a Full-Stack Web developer. I ❤️ GNU/Linux, Gruvbox Theme and Charles Hoskinson.
 <br />
 
-<a href="https://www.linkedin.com/in/mina-andajos-9b89101b2/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BmECYtiyxTz6j8azjlx9jLQ%3D%3D"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/mina-andajos-9b89101b2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:mina-andajos-work@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 <a href="https://discordapp.com/channels/@me/747449468864954438/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 ----
