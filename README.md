@@ -5,7 +5,7 @@
 <a href="https://discordapp.com/channels/@me/747449468864954438/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 
 
-Accepted as an Intern for the [Outreachy May 2022 Cohort](https://www.outreachy.org)
+Accepted as an Intern in the [Outreachy May 2022 Cohort](https://www.outreachy.org) for [Les Fruits Défendus](https://github.com/LesFruitsDefendus/)
 
 Egyptian Engineering Student. Building projects with Django and aspiring to be a Full-Stack Web developer.
 
