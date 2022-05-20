@@ -1,7 +1,10 @@
 # Mina Andajos
-Egyptian Engineering Student. Building projects with Django and aspiring to be a Full-Stack Web developer.
 
-I ❤️ GNU/Linux, Dracula Theme and Charles Hoskinson.
+* Accepted as an Intern for the [Outreachy May 2022 Cohort](https://www.outreachy.org)
+
+* Egyptian Engineering Student. Building projects with Django and aspiring to be a Full-Stack Web developer.
+
+* I ❤️ GNU/Linux, Dracula Theme and Charles Hoskinson.
 <br />
 
 <a href="https://www.linkedin.com/in/mina-andajos-9b89101b2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
