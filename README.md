@@ -9,7 +9,7 @@ Accepted as an Intern in the [Outreachy May 2022 Cohort](https://www.outreachy.o
 
 Egyptian Engineering Student. Building projects with Django and aspiring to be a Full-Stack Web developer.
 
-I ❤️ GNU/Linux, Dracula Theme and Charles Hoskinson.
+I ❤️ GNU/Linux, Dracula Theme and Ronnie Coleman.
 
 ---------------
 
