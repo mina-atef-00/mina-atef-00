@@ -7,7 +7,7 @@
 
 Accepted as an Intern in the [Outreachy May 2022 Cohort](https://www.outreachy.org) for [Les Fruits Défendus](https://github.com/LesFruitsDefendus/)
 
-Egyptian Engineering Student. Building projects with Django and aspiring to be a Full-Stack Web developer.
+Egyptian Engineering Student. Building projects with Django & aspiring to be a Full-Stack Web developer.
 
 I ❤️ GNU/Linux, Dracula Theme and Ronnie Coleman.
 
