@@ -10,12 +10,3 @@ Intern in the [Outreachy May 2022 Cohort](https://www.outreachy.org/alums/2022-0
 Egyptian Engineering Student. Building projects with Django & aspiring to be a Full-Stack Web developer.
 
 I ❤️ GNU/Linux, Dracula Theme and Ronnie Coleman.
-
----------------
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mina-andajos&show_icons=true&include_all_commits=true&theme=dracula" alt="Anurag's github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mina-andajos&layout=compact&theme=dracula" />
-</a>
