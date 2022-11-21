@@ -6,6 +6,6 @@
 <a href="tova#9116"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 
 
-- Intern in the [Outreachy May 2022 Cohort](https://www.outreachy.org/alums/2022-05/) for [Les Fruits Défendus](https://github.com/LesFruitsDefendus/).
+- [Outreachy'22 Intern](https://www.outreachy.org/alums/2022-05/) for [Les Fruits Défendus](https://github.com/LesFruitsDefendus/).
 - Building projects with Django & aspiring to be a Full-Stack OPs developer.
 - Egyptian Engineering Student. I ❤️ GNU/Linux, Dracula Theme and Ronnie Coleman.
