@@ -1,11 +1,14 @@
-# Mina Andajos
-<a href="https://www.linkedin.com/in/mina-andajos-9b89101b2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+# Mina Atef
+<a href="https://www.linkedin.com/in/mina-atef-/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:mina-andajos-work@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+<a href="https://twitter.com/_Mina_Atef"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://medium.com/@Mina_Atef_"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 <br>
-<a href="https://twitter.com/MinaAndajos"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="tova#9116"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://www.credly.com/badges/d60bc5d8-3be7-4ee3-ac92-ee8214556a08/public_url)"><img src="https://user-images.githubusercontent.com/52796958/220787718-bffbb6a1-c2af-4cb1-8a07-20d7f17835e2.png"></a>
 
 
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/d60bc5d8-3be7-4ee3-ac92-ee8214556a08/public_url)
 - [Outreachy'22 Intern](https://www.outreachy.org/alums/2022-05/) for [Les Fruits Défendus](https://github.com/LesFruitsDefendus/).
-- Building projects with Django & aspiring to be a Full-Stack OPs developer.
-- Egyptian Engineering Student. I ❤️ GNU/Linux, Dracula Theme and Ronnie Coleman.
+- Building projects with Django, Fast api & aspiring to be a DevOPs/SRE engineer.
+- Egyptian Business Student.
+- I ❤️ [WSL](https://ubuntu.com/wsl) , [Catppuccin Theme](https://github.com/catppuccin/catppuccin) and Ronnie Coleman.
