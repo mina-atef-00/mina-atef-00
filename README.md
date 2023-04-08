@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/gosqQo8.png" width="100%">
+<img src="https://i.imgur.com/iVcHxes.png" width="100%">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mina-atef-/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
