@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/iVcHxes.png" width="100%">
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mina-atef-/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
+  <a href="https://mina-atef.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
   <a href="https://www.linkedin.com/in/mina-atef-/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://wellfound.com/u/mina-atef-00"><img src="https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=AngelList&logoColor=white"></a>
   <br>
@@ -16,7 +16,7 @@
 - [Outreachy'22 Intern](https://www.outreachy.org/alums/2022-05/) for [Les Fruits Défendus](https://github.com/LesFruitsDefendus/), built a Django Rest Framework api.
 - Egyptian Business Administration Student.
 
-See [my website](https://www.linkedin.com/in/mina-atef-/) for more information!
+See [my website](https://mina-atef.netlify.app/) for more information!
 
 ---
 
