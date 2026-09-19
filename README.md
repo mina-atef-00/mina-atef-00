@@ -58,7 +58,7 @@ See [my website](https://mina-atef.netlify.app/) for more information!
   </tr>
 </table>
 
-Earlier public work: ProBotX, QuickFlips, Infinity-Team (Discord bots, 2021–22), Debian-Server-Setup-Scripts.
+Earlier public work: [ProBotX](https://github.com/mina-atef-00/ProBotX), [QuickFlips](https://github.com/mina-atef-00/QuickFlips), [Infinity-Team](https://github.com/mina-atef-00/Infinity-Team) (Discord bots, 2021–22), [Debian-Server-Setup-Scripts](https://github.com/mina-atef-00/Debian-Server-Setup-Scripts).
 
 ---
 
