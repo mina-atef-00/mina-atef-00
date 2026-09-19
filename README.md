@@ -39,10 +39,12 @@ See [my website](https://mina-atef.netlify.app/) for more information!
       <a href="https://github.com/mina-atef-00/langpipe"><b>langpipe</b></a>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/mina-atef-00/book-man"><b>book-man</b></a><br>Dyslexia-friendly study companion for OpenCode: PDF/EPUB → Markdown → queryable wiki.<br><sub>screenshot coming soon</sub>
+      <a href="https://github.com/mina-atef-00/book-man"><img src="https://raw.githubusercontent.com/mina-atef-00/book-man/main/docs/img/tools-live.svg" width="100%"></a><br>
+      <a href="https://github.com/mina-atef-00/book-man"><b>book-man</b></a>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/mina-atef-00/nix-mina"><b>nix-mina</b></a><br>Personal Nix flake — desktop setup with MangoWC.<br><sub>screenshot coming soon</sub>
+      <a href="https://github.com/mina-atef-00/nix-mina"><img src="https://raw.githubusercontent.com/mina-atef-00/nix-mina/main/docs/img/desktop.png" width="100%"></a><br>
+      <a href="https://github.com/mina-atef-00/nix-mina"><b>nix-mina</b></a>
     </td>
   </tr>
 </table>
