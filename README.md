@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://mina-atef.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
+  <a href="https://mina-atef-v2.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
   <a href="mailto:mina-andajos-work@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://www.upwork.com/freelancers/~01f09b9a1ad818ab7f"><img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"></a>
   <br>
@@ -12,7 +12,7 @@ I build AI-agent pipelines end-to-end — ingestion to serving — and own the L
 - [Outreachy'22 Intern](https://www.outreachy.org/alums/2022-05/) for [Les Fruits Défendus](https://github.com/LesFruitsDefendus/), built a Django Rest Framework api.
 - Egyptian, B.A. Business Administration, Ain Shams University (2026).
 
-See [my website](https://mina-atef.netlify.app/) for more information!
+See [my website](https://mina-atef-v2.netlify.app/) for more information!
 
 ---
 
