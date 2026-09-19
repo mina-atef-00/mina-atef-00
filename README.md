@@ -16,6 +16,15 @@ See [my website](https://mina-atef.netlify.app/) for more information!
 
 ---
 
+<h2 align="center">Background</h2>
+
+- **Backend** — Outreachy '22: rebuilt a Django site's backend as a documented REST API (pagination, filtering, search), cutting page loads by up to 160× via ORM/serializer optimization.
+- **Servers** — built and documented the entire Debian production stack from scratch: uWSGI, NGINX, MySQL with automatic backups, fail2ban, firewall, HTTPS.
+- **Cloud** — AWS Certified Cloud Practitioner, with hands-on cloud experience.
+- **Earlier** — freelance Python (2021–22): three production Discord bots against third-party APIs (eBay, web3, OpenWeatherMap/Unsplash); programming instructor (Python, C, Arduino, Raspberry Pi).
+
+---
+
 <h2 align="center">Projects</h2>
 
 <table align="center">
