@@ -67,6 +67,10 @@ Earlier public work: [ProBotX](https://github.com/mina-atef-00/ProBotX), [QuickF
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MCP-7C5CFF?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/static/v1?label=&message=HERMES&color=89b4fa&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Fedora_Atomic-51A2DA?style=for-the-badge&logo=fedora&logoColor=white"/>
