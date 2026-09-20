@@ -44,8 +44,8 @@ See [my website](https://mina-atef.duckdns.org/) for more information!
   </tr>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/mina-atef-00/langpipe"><img src="https://raw.githubusercontent.com/mina-atef-00/langpipe/main/docs/img/plugin-action.svg" width="100%"></a><br>
-      <a href="https://github.com/mina-atef-00/langpipe"><b>langpipe</b></a>
+      <a href="https://github.com/mina-atef-00/lesan_pipe"><img src="https://raw.githubusercontent.com/mina-atef-00/lesan_pipe/main/docs/img/plugin-action.svg" width="100%"></a><br>
+      <a href="https://github.com/mina-atef-00/lesan_pipe"><b>lesan_pipe</b></a>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/mina-atef-00/book-man"><img src="https://raw.githubusercontent.com/mina-atef-00/book-man/main/docs/img/tools-live.svg" width="100%"></a><br>
